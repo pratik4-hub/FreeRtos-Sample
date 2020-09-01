@@ -1,0 +1,5 @@
+This is a template project for the IOT project. 
+A single file code can access the aws database via MQTT and TLS 1.2. 
+The topics given in the projects are need to be subscribed in AWS under test section for checking code workings.
+The code produces random data for temperature and humidity which is pushed into the cloud. 
+Note: All the certificates are need to be declared in exactly same way as declared previously. 
